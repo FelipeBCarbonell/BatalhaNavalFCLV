@@ -1,2 +1,2 @@
 # BatalhaNavalFCLV
-EP2 Felipe Carbonell, Leo Veras
+EP2 Felipe Carbonell, Leonardo Veras
